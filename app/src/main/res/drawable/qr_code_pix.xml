@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Fundo branco do QR Code -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0 H200 V200 H0 Z" />
+
+    <!-- Padrão de QR Code (pontos pretos simulados) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,20 H40 V40 H20 Z M60,20 H80 V40 H60 Z M100,20 H120 V40 H100 Z M140,20 H160 V40 H140 Z M180,20 H200 V40 H180 Z
+        M20,60 H40 V80 H20 Z M60,60 H80 V80 H60 Z M100,60 H120 V80 H100 Z M140,60 H160 V80 H140 Z M180,60 H200 V80 H180 Z
+        M20,100 H40 V120 H20 Z M60,100 H80 V120 H60 Z M100,100 H120 V120 H100 Z M140,100 H160 V120 H140 Z M180,100 H200 V120 H180 Z
+        M20,140 H40 V160 H20 Z M60,140 H80 V160 H60 Z M100,140 H120 V160 H100 Z M140,140 H160 V160 H140 Z M180,140 H200 V160 H180 Z
+        M20,180 H40 V200 H20 Z M60,180 H80 V200 H60 Z M100,180 H120 V200 H100 Z M140,180 H160 V200 H140 Z M180,180 H200 V200 H180 Z" />
+
+    <!-- Logo central do Silêncio PZ -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M80,80 H120 V120 H80 Z" />
+</vector>
