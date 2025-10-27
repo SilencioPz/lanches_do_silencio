@@ -214,14 +214,14 @@ implementation(libs.androidx.lifecycle.runtime.ktx)
 Terminal (Linux/macOS):
 bash
 
-git clone https://github.com/seu-usuario/LanchesDoSilencio.git
+git clone https://github.com/SilencioPz/LanchesDoSilencio.git
 cd LanchesDoSilencio
 ./gradlew assembleDebug
 
 ---------------------------------------------------------------------------------------------
 PowerShell (Windows):
 
-git clone https://github.com/seu-usuario/LanchesDoSilencio.git
+git clone https://github.com/SilencioPz/LanchesDoSilencio.git
 cd LanchesDoSilencio
 .\gradlew.bat assembleDebug
 
